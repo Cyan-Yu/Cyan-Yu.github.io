@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>article</title>
+    <link href="/2021/09/24/article/"/>
+    <url>/2021/09/24/article/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2021/09/24/%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/"/>
+    <url>/2021/09/24/%E6%9C%8D%E5%8A%A1%E8%AE%BE%E8%AE%A1/</url>
+    
+    <content type="html"><![CDATA[<p><strong>服务设计</strong><br>无形的经济活动，以满足用户需求为基础，创造服务价值为目标，在服务提供者和接收者之间进行价值传递。</p><p>服务设计是传统设计领域在后工业时代的新拓展，是设计概念的全方位实现。服务设计的本体属性是人、物、行为、环境、社会之间关系的系统设计。服务设计的目的在于为顾客和组织创造有用、好用、有效、高效的服务，进而营造更好的体验。<br>物理逻辑——&gt;行为逻辑，功能——&gt;体验，产品——&gt;服务</p><p><strong>服务设计的五大原则</strong></p><ol><li>以用户为中心user-centered：好的服务应该来源于用户需求，也要超越用户需求，达到让用户感动的程度</li><li>共同创造co-creative：服务的产生与消费同时发生，服务提供者参与服务设计；消费者从头到尾体验全部流程；各领域专家参与（交互设计师、计算机深度学习专家、编程工程师</li><li>次序sequencing：服务的节奏和内容影响用户情绪和感知价值（用户登机顺序、流程、场地、时间</li><li>证据evidence：让无形发价值通过有形的方式呈现，</li><li>整体holisticn：保证全局优化，不仅关注用户端也关注组织端</li></ol><p><strong>接触点、前端、后端、利益相关者</strong></p><ul><li>接触点：<br> ![[Pasted image 20210221172027.png]] ![[Pasted image 20210221172047.png]]</li><li>前端：顾客看得到的、直观体验得到的（机场大厅直观感受到的所有服务）</li><li>后端：服务背后发生的一些工作内容 反映服务响应及时度（行李装运系统、用户信息管理系统、机场卫生清洁维护、紧急医疗服务救治、服务人员管理培训）</li><li>利益相关者</li></ul><p><strong>服务设计的流程与步骤</strong><br>![[Pasted image 20210321194942.png]]<br>![[Pasted image 20210321195134.png]]<br>![[Pasted image 20210321195213.png]]</p><ol><li>探索（发现问题）：</li></ol><p>– 共创<br>– 定义问题：了解现有/潜在客户对现有问题的看法<br>– 将发现的问题可视化</p><ol start="2"><li>创造</li></ol><p>– 定义客户需求、动机、预期、服务提供商的流程和限制</p><ol start="3"><li>反思（原型迭代）</li></ol><p>– 构造原型、测试、迭代<br>– 处理服务的无形性</p><ol start="4"><li>执行<br>![[Pasted image 20210221171804.png]]</li></ol>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2021/09/24/%E7%8E%BB%E7%92%83%E6%8B%9F%E6%80%81/"/>
+    <url>/2021/09/24/%E7%8E%BB%E7%92%83%E6%8B%9F%E6%80%81/</url>
+    
+    <content type="html"><![CDATA[<p>所谓物极必反，扁平化风格曾风靡一时，看腻后需要新鲜风格来补足视觉需求，于是出现新拟物化、玻璃拟物化、光感风格等<br><a href="https://mp.weixin.qq.com/s/L6F-n6WI0O4AhxJhAoDb6g">https://mp.weixin.qq.com/s/L6F-n6WI0O4AhxJhAoDb6g</a></p><h3 id="1-概述"><a href="#1-概述" class="headerlink" title="1. 概述"></a>1. 概述</h3><p>Glassmorphism，玻璃拟物化，2020年末流行的设计趋势，代表设计师：Ghani Pradita ![[Pasted image 20210412150216.png]]<br>将阴影、透明度、深度、描边结合，创建视觉层级的风格特征<br>比扁平化多了更多光泽和质感，丰富了视觉细节</p><h3 id="2-核心特征"><a href="#2-核心特征" class="headerlink" title="2. 核心特征"></a>2. 核心特征</h3><p><strong>透明度</strong>：半透明带有模糊磨砂质感背景<br><strong>悬浮</strong>：通过深度、透明度、阴影营造层次感（悬浮需要大背景承载）<br><strong>色彩</strong>：使用鲜明的颜色与半透磨砂背景叠加（大面积透明度易造成视觉疲劳）<br><strong>描边</strong>：轻微描边可用来模拟玻璃高光质感<br>![[Pasted image 20210412150335.png]]</p><h3 id="3-如何应用这种风格？"><a href="#3-如何应用这种风格？" class="headerlink" title="3. 如何应用这种风格？"></a>3. 如何应用这种风格？</h3><ul><li>应用在功能局部位置，不影响整体感受并突出亮点<br>![[Pasted image 20210412150419.png]]<br>![[Pasted image 20210412150710.png]]</li><li>图标中使用，应保持一致性<br>![[Pasted image 20210412150805.png]]</li><li>网页头图使用，展示面积大效果好<br>![[Pasted image 20210412150834.png]]</li><li>车载HMI设计，更显质感<br>![[Pasted image 20210412150903.png]]</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2021/09/23/hello-world/"/>
+    <url>/2021/09/23/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
